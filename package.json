@@ -33,7 +33,7 @@
     "@electric-sql/pglite": "^0.2.15",
     "@hookform/resolvers": "^3.9.1",
     "@logtail/pino": "^0.5.2",
-    "@sentry/nextjs": "^8.43.0",
+    "@sentry/nextjs": "^8.48.0",
     "@spotlightjs/spotlight": "^2.7.0",
     "@t3-oss/env-nextjs": "^0.11.1",
     "drizzle-orm": "^0.38.0",
